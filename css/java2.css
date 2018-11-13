@@ -1,0 +1,83 @@
+.seven{
+    font-family: 'Montserrat', sans-serif;
+    margin-left:450px;
+
+}
+.SubmitArticle{
+    border-bottom: 3px solid #566573;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+.story1s
+{
+    width: 535px;
+
+margin-bottom: -25px;
+}
+.header1s {
+    margin-bottom: -20px;
+
+}
+.shorthead1s {
+    margin-bottom: -10px;
+
+}
+.author1s {
+    margin-bottom: -20px;
+}
+.place{
+  margin-bottom: -5px;
+}
+
+input[type=text], input[type=username],input[type=password],select,textarea{
+    border-width: 2px;
+    border-color:  #566573;
+    width: 100%;
+    border-radius: 4px;
+}
+::placeholder{
+    font-family: 'Montserrat', sans-serif;
+
+}
+input[type=username],input[type=password],input[type=text],input[type=dropdown]
+{
+    height:30px;
+}
+select{
+    height:40px;
+
+}
+
+.storytype1s
+{
+    width: 546px;
+    margin-top:-10px;
+}
+.button
+{
+ color: white;
+    font-family: 'Ubuntu', sans-serif;
+
+    height: 30px;
+
+    border: none;
+    background-color: #566573;
+    width:100%;
+}
+.mainheader{
+    margin-left: 150px;
+    margin-bottom: 0px;
+
+
+}
+.button{
+    width:546px;
+}
+.remove{
+    text-decoration: none;
+}
+
+
